@@ -1,0 +1,33 @@
+body {
+    padding-top: 60px;
+}
+
+textarea {
+    resize: none;
+}
+
+#search-format .selected {
+    background: #222222;
+    color: #ffffff;
+}
+
+#publication-authors .input-group {
+    margin-bottom: 10px;
+}
+
+#publication-authors .input-group:last-of-type {
+    margin-bottom: 0;
+}
+
+.statistics .entity {
+    margin-bottom: 10px;
+}
+
+.statistics .entity .btn {
+    width: 100%;
+    text-align: left;
+}
+
+#search-disease {
+    margin-bottom: 10px;
+}
